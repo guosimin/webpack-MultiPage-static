@@ -1,4 +1,4 @@
-module.exports = {
+/*module.exports = {
   root: true,
   env: {
     browser: true,
@@ -14,4 +14,4 @@ module.exports = {
     'no-new': 'off'
   },
   globals: {}
-}
+}*/
